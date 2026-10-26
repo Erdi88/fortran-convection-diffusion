@@ -1,0 +1,7 @@
+conv_diff
+*.exe
+*.o
+*.mod
+__pycache__/
+*:Zone.Identifier
+.vscode/
